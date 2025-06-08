@@ -1,1 +1,1 @@
-Place images of class ciervo here.
+This folder contains 32x32 sample images for the CIFAR-10 class **ciervo**.

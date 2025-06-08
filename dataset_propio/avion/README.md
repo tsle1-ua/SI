@@ -1,1 +1,1 @@
-Place images of class avion here.
+This folder contains 32x32 sample images for the CIFAR-10 class **avion**.
